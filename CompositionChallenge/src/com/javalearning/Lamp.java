@@ -17,6 +17,10 @@ public class Lamp {
         System.out.println("Lamp -> Turning on");
     }
 
+    public void turnOff() {
+        System.out.println("Lamp -> Turning off");
+    }
+
     public String getStyle() {
         return style;
     }
