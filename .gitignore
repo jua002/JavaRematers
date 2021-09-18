@@ -134,3 +134,4 @@ modules.xml
 .idea
 *.iml
 *.xml
+.DS_Store
